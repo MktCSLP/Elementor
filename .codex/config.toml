@@ -1,0 +1,8 @@
+
+[mcp_servers.jv-general-building-remodeling-construction-elementor]
+url = "https://jvgeneralbuilding.com/wp-json/elementor/mcp/"
+
+[mcp_servers.jv-general-building-remodeling-construction-elementor.headers]
+Authorization = "Basic YWRtaW46Y2ZycnFmTnlNV1o2Znh4dFkzbDFNblhT"
+
+
